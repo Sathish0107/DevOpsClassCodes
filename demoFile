@@ -1,1 +1,1 @@
-trigger github
+trigger github in pipeline
